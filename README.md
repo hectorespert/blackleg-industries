@@ -1,2 +1,2 @@
 # blackleg-industries
-Blackleg Industries
+Blackleg Industries, Mod Kerbal Space Program
