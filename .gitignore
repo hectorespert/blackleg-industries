@@ -19,3 +19,6 @@ sysinfo.txt
 
 #Blender
 *.blend*
+
+#Zip
+*.zip
