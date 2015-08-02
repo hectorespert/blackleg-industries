@@ -1,2 +1,0 @@
-# blackleg-industries
-Blackleg Industries
