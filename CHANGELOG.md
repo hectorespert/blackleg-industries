@@ -1,3 +1,5 @@
+Version 1.8
+	-Remove Old SDHI Module Manager Patch and KW Rocketry Patch
 Version 1.7
 	-Add Module Manager Patches
 	-Change Licence to CC0 1.0 Universal
